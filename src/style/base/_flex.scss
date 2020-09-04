@@ -1,0 +1,22 @@
+.flex{
+  display: flex;
+}
+.align-items-center{
+  align-items:center;
+}
+@for $i from 1 through 10{
+  .flex-#{$i}{
+    flex:#{$i};
+  }
+}
+.flex-direction-column{
+  flex-direction:column;
+}
+
+.justify-content-space-between{
+  justify-content: space-between;
+}
+
+.flex-flow-row-wrap{
+  flex-flow:row wrap;
+}
