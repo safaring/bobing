@@ -1,9 +1,9 @@
 # bobing
 
-##说明
+## 说明
 可按照事先设置的中秋博饼规则大小摇出对应的点数
 
-##效果
+## 效果
 ![效果图](https://wx2.sinaimg.cn/mw690/6457b6bfgy1gieov76fyng20cg0qokjm.gif)
 
 
