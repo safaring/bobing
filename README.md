@@ -6,6 +6,8 @@
 ## 效果
 ![效果图](https://wx2.sinaimg.cn/mw690/6457b6bfgy1gieov76fyng20cg0qokjm.gif)
 
+## 规则
+![规则图](https://wx1.sinaimg.cn/mw690/6457b6bfly1gieph2q1z8j20u01cw4bu.jpg)
 
 ## Project setup
 ```
